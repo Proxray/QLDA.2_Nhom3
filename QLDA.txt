@@ -4,4 +4,9 @@ tot go hon tot nuoc son
 anh em nhu the chan tay
 lololol
 get up
+<<<<<<< HEAD
 hekkkk
+=======
+lolo1223
+xin chao cac bn
+>>>>>>> f436e2d76b893cb2571aedfff2e1316d9c8910c4
